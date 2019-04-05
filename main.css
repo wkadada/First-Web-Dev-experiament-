@@ -1,0 +1,25 @@
+body{
+	background: #00999999;
+	font-family: ARIAL;
+}
+
+h1, h3{
+	display: inline;
+	color: white;
+		
+}
+
+table{
+	color: white;
+	
+}
+span{
+	display: inline-block;
+	background: #00999999;
+	color: white;
+}
+
+p{
+	color: black;
+	;
+}
